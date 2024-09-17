@@ -61,7 +61,6 @@
         - PS
         - PR
       - Docker Desktop
-        - 
       - Eclipse
       - Git
       - HBuilderX
