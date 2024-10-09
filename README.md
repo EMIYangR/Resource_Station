@@ -1,6 +1,6 @@
 # 欢迎您访问艾米文化旗下的资源站（OneDrive站点）！
 
-#### 更新于2024年9月12日
+#### 更新于2024年10月09日
 
 - **Microsoft**
   - Office
@@ -83,6 +83,7 @@
       - zh-cn_windows_11_enterprise_pro_22H2_arm64.iso
       - zh-cn_windows_11_home china_22H2_x64.iso
     - 精简版
+      - tiny11 b1.iso
 - **软件**
   - 专业研究
     - 建筑
@@ -165,7 +166,8 @@
       - PowerDesign 16.5
       - XmanagerPowerSuite 7
     - 音乐
-      - Avid Pro Tools HD 12.5.0.395 Portable
+      - Avid Pro Tools HD
+        - Avid Pro Tools HD 12.5.0.395 Portable
   - 学术研究
     - BetterGI
   - 实用工具
